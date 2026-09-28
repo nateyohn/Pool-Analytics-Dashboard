@@ -3,14 +3,15 @@
 ![Dashboard Preview](docs/executive_summary.png)
 
 ## Executive Summary
-An end-to-end analytics solution built to unify transactional data across facility management systems, POS software, and local weather history. By centralizing raw data from MemberSplash and Square into a structured cloud database (Supabase) via a Python ETL pipeline, this project delivers actionable operational intelligence to maximize pool attendance and concession revenue.
+An end-to-end analytics solution built to unify transactional data across facility management systems, POS software, and local weather history. By centralizing raw data from MemberSplash and Square via a Python ETL pipeline, this project delivers actionable operational intelligence to maximize pool attendance and concession revenue.
+
+> **Note on this repository:** The original project loads data into a Supabase (PostgreSQL) database that Power BI connects to directly. This public repo version simplifies that step — the ETL pipeline outputs cleaned CSVs (in `cleaned_data/`) instead of connecting to a live database, so anyone cloning this repo can run it without needing their own Supabase instance.
 
 > **Note on data:** This is a public repository, so the underlying data has been synthetically regenerated to protect member and business privacy. The statistical relationships (correlations, seasonal trends, lift percentages) are preserved from the original analysis performed for a real regional swim club.
 
 ![Dashboard Demo](docs/powerbi.gif)
 
 ## Table of Contents
-- [About This Project](#about-this-project)
 - [Key Business Insights & Recommendations](#key-business-insights--recommendations)
 - [Tech Stack & Architecture](#tech-stack--architecture)
 - [Data Pipeline Architecture](#data-pipeline-architecture)
@@ -19,6 +20,7 @@ An end-to-end analytics solution built to unify transactional data across facili
 - [Repository Structure](#repository-structure)
 - [How to Run Locally](#how-to-run-locally)
 - [Future Improvements](#future-improvements)
+- [About This Project](#about-this-project)
 
 ## Key Business Insights & Recommendations
 * **Check-ins Are the Strongest Predictor of Revenue (r = 0.83):** Statistical analysis revealed that facility check-ins are the strongest observed predictor of concession sales, outperforming pure weather metrics (e.g., temperature/heat index).
@@ -34,8 +36,9 @@ An end-to-end analytics solution built to unify transactional data across facili
 * **ETL Pipeline (Python/Pandas):**
   * Cleaned messy text, standardized irregular time formats, and calculated derived fields.
   * Fetched historical hourly weather data via the **Open-Meteo API** (temperature, precipitation, wind speed, feels-like calculations).
-  * Handled dynamic upserts directly to a **Supabase (PostgreSQL)** database.
-* **Semantic Modeling & Visualization (Power BI):** Connected directly to Supabase to build a Star Schema model, complete with custom DAX time-intelligence measures (YoY seasonal growth).
+  * Outputs cleaned, structured CSVs to `cleaned_data/` for the dashboard to read directly.
+* **Semantic Modeling & Visualization (Power BI):** Loads the cleaned CSVs to build a Star Schema model, complete with custom DAX time-intelligence measures (YoY seasonal growth).
+> In the original production version of this project, the pipeline upserts directly into a Supabase (PostgreSQL) database that Power BI connects to live. This repo simplifies that step to local CSVs so it can be run without a database.
 
 ## Data Pipeline Architecture
 ```
@@ -43,7 +46,7 @@ An end-to-end analytics solution built to unify transactional data across facili
 [ Square POS CSVs   ] ──┼─> [ Python ETL Script ] ──> [ Open-Meteo API ]
                         │          │
                         │          v
-                        └──> [ Supabase Postgres ] ──> [ Power BI Dashboard ]
+                        └──> [ Cleaned CSVs ] ──> [ Power BI Dashboard ]
 ```
 
 ## Power BI Data Model (Star Schema)
@@ -60,38 +63,42 @@ An end-to-end analytics solution built to unify transactional data across facili
 
 ### 1. Executive Overview
 ![Executive Overview Page](docs/executive_summary.png)
-*High-level summary of total revenue, daily check-in trends, and overall season performance.*
+Top-line KPIs — total snack shack sales, total check-ins, and total membership sales — each with a YoY comparison callout. Below that, a dual-axis chart overlays check-ins and snack shack sales against temperature to visualize the relationship, alongside a day/hour matrix for both check-ins and sales and an item-level sales breakdown.
 
 ### 2. Concession & Inventory Performance
 ![Concession Performance Page](docs/concessions.png)
-*Item-level sales distribution, category sales, and heat-index purchasing behaviors.*
+Total sales KPI with YoY growth, plus sales broken out by day of week, temperature, temperature bucket, item, and weather description. A day-by-hour sales matrix highlights peak and low sales windows (conditional formatting flags high/low cells), and an item-by-temperature-bucket table shows which products sell best under which conditions — the data behind the stockout/bundling recommendation above.
 
 ### 3. Check-In & Attendance Analytics
 ![Check-In Analytics Page](docs/check_ins.png)
-*Breakdown of peak hourly check-in volume, weather correlations, and YoY measures.*
+Total check-ins KPI with YoY growth, plus check-ins broken out by weather condition, member type (child/adult/unknown), temperature, and hour of day. A day-by-hour matrix shows peak attendance windows (Saturday mornings stand out).
 
 ### 4. Membership Sale Analysis
 ![Membership Sales Page](docs/membership_sales.png)
-*Analyzes membership sales volume, seasonal growth trends, and revenue by membership category.*
+Total memberships sold and total membership revenue KPIs, each with YoY growth. Revenue is broken out by membership/fee type (membership fee, guest fee, equity fee, etc.) and by month, showing clear seasonal peaks around April and the summer months.
 
 ---
 
 ## Repository Structure
 ```
 Pool-Analytics-Dashboard/
+├── scripts/               # Python ETL scripts (extraction, cleaning, weather API)
+├── raw_fake_data/         # Synthetically regenerated source CSVs (MemberSplash, Square, weather)
+├── cleaned_data/          # Cleaned/processed output from the ETL pipeline
+├── dashboard/             # Power BI (.pbix) dashboard file
 ├── docs/                  # Dashboard screenshots used in this README
-├── src/                   # Python ETL scripts (extraction, cleaning, weather API, Supabase upserts)
 ├── requirements.txt       # Python dependencies
-├── LICENSE
+├── .gitignore
+├── .gitattributes
+├── LICENSE.txt
 └── README.md
 ```
-> Update the tree above to match your actual folder/file names before publishing.
 
 ## Tech Stack & Dependencies
 
 * **Language:** Python 3.13
 * **ETL Libraries:** `pandas`, `numpy`, `requests`, `python-dateutil`, `openpyxl`
-* **Database & Storage:** Supabase (PostgreSQL), CSV
+* **Database & Storage:** CSV (Supabase/PostgreSQL used in the original production version, not required to run this repo)
 * **Business Intelligence:** Power BI Desktop (DAX, Power Query)
 
 ---
@@ -115,7 +122,7 @@ Pool-Analytics-Dashboard/
    ```
 
 4. **Open the Power BI dashboard:**
-   Open the `.pbix` file in Power BI Desktop and connect it to your own Supabase instance credentials.
+   Open `dashboard/pool_data_analysis.pbix` in Power BI Desktop. It reads directly from the CSVs in `cleaned_data/` — no database connection required.
 
 ## Future Improvements
 - **Automate ingestion:** Replace manual CSV exports from MemberSplash/Square with a scheduled API pull or scraper to eliminate manual extraction steps.
@@ -129,5 +136,4 @@ Built by Nate Yohn — Information Systems & Analytics student at Shippensburg U
 📧 nate.m.yohn@gmail.com | [LinkedIn](https://www.linkedin.com/in/nate-yohn-54763524a/)
 
 ## License
-This project is licensed under the MIT License — see the `LICENSE` file for details.
-> Add a LICENSE file to the repo root (MIT is a common, permissive choice for portfolio projects) or swap this line for whichever license you choose.
+This project is licensed under the MIT License — see the `LICENSE.txt` file for details.
