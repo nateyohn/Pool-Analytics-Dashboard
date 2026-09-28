@@ -1,0 +1,201 @@
+sss_id,date,time,category,item,qty,price_point_name,gross_sales,discounts,net_sales,tax,transaction_id,notes,hour,month,month_num,year,day_of_week,date_hour
+1,2025-03-01,16:19:12,Guest Passes,Giant Freeze Pop,-1,Regular,4.9,-1,12.28,0,term,Too Hard,16,March,3,2025,Saturday,2025-03-01_16
+2,2024-01-10,13:40:48,Food,Fun Size Candy,0,Regular,6.43,0,12.59,0,go,Canceled Order,13,January,1,2024,Wednesday,2024-01-10_13
+3,2023-07-29,14:38:24,Chips,Soft Pretzel,3,Regular,7.37,1,13.95,0,involve,Returned Goods,14,July,7,2023,Saturday,2023-07-29_14
+4,2026-05-29,12:00:00,Cookout,Gatorade,0,Regular,3.34,0,8.65,0,itself,Accidental Charge,12,May,5,2026,Friday,2026-05-29_12
+5,2025-12-25,19:55:12,Ice Cream,Bomb Pop,2,Chocolate,10.82,1,0.62,0,while,Returned Goods,19,December,12,2025,Thursday,2025-12-25_19
+6,2024-06-18,15:50:24,Candy,Ice Cream Sandwich,3,Regular,2.51,-2,2.38,0,detail,Accidental Charge,15,June,6,2024,Tuesday,2024-06-18_15
+7,2026-05-29,15:50:24,Candy,Drumstick Ice Cream Cone,2,Regular,11.93,-1,2.08,0,themselves,Expired Food Maddie Approved,15,May,5,2026,Friday,2026-05-29_15
+8,2024-08-27,15:21:36,Ice Cream,Slim Jim,3,Regular,1.49,-1,0.18,0,spring,Returned Goods,15,August,8,2024,Tuesday,2024-08-27_15
+9,2024-11-25,12:28:48,Food,Italian Ice Tubes,2,Regular,1.47,1,7.27,0,into,Returned Goods,12,November,11,2024,Monday,2024-11-25_12
+10,2025-11-09,18:00:00,Food,Slime Licker Pop,-1,Regular,2.4,0,10.58,0,ten,Canceled Order,18,November,11,2025,Sunday,2025-11-09_18
+11,2024-10-05,11:45:36,Chips,Lunchables,2,Regular,3.4,1,12.68,0,learn,Returned Goods,11,October,10,2024,Saturday,2024-10-05_11
+12,2025-04-13,17:02:24,Guest Passes,Candy Necklace,1,Regular,1.1,1,13.93,0,office,Accidental Charge,17,April,4,2025,Sunday,2025-04-13_17
+13,2024-11-02,15:36:00,Food,Cheese Cup,1,Regular,2.32,1,2.52,0,direction,Fraudulent Charge,15,November,11,2024,Saturday,2024-11-02_15
+14,2023-06-27,12:57:36,Chips,Airhead Extreme,0,Regular,13.62,0,0.34,0,democratic,grandchikdren on account,12,June,6,2023,Tuesday,2023-06-27_12
+15,2024-06-05,15:07:12,Candy,Airhead Extreme,1,Regular,7.55,1,6.93,0,grow,grogan caregiver,15,June,6,2024,Wednesday,2024-06-05_15
+16,2026-07-16,12:43:12,Candy,Chipwich (Chocolate Chip) Ice Cream Sandwich,1,Regular,3.66,0,19.88,0,organization,Returned Goods,12,July,7,2026,Thursday,2026-07-16_12
+17,2026-04-01,17:31:12,Food,Sour Howlers,1,Regular,3.87,-2,6.35,0,offer,Returned Goods,17,April,4,2026,Wednesday,2026-04-01_17
+18,2025-07-16,19:55:12,Ice Cream,Chocolate Eclair Bar,1,Regular,7.58,-1,10.09,0,whose,Returned Goods,19,July,7,2025,Wednesday,2025-07-16_19
+19,2025-07-15,19:12:00,Beverages,Cheese Cup,0,Regular,6.45,0,7.12,0,kind,Canceled Order,19,July,7,2025,Tuesday,2025-07-15_19
+20,2024-11-07,14:38:24,Candy,Pringles,5,Regular,0.04,0,10.41,0,school,Accidental Charge,14,November,11,2024,Thursday,2024-11-07_14
+21,2024-01-13,15:36:00,Candy,Push Pop,0,Blackberry,0.01,-1,4.16,0,blue,Accidental Charge,15,January,1,2024,Saturday,2024-01-13_15
+22,2025-01-26,12:43:12,Candy,Soft Pretzel,0,Vanilla,1.82,0,0.04,0,determine,Expired Food Maddie Approved,12,January,1,2025,Sunday,2025-01-26_12
+23,2026-06-15,10:19:12,Food,Sour Spray (Warheads),3,Regular,13.87,1,0.38,0,rest,Canceled Order,10,June,6,2026,Monday,2026-06-15_10
+24,2026-03-05,16:04:48,Beverages,King Cone,3,Regular,10.92,1,11.29,0,it,Canceled Order,16,March,3,2026,Thursday,2026-03-05_16
+25,2023-05-22,16:19:12,Candy,Soft Pretzel,2,Regular,4.01,1,7.39,0,and,Accidental Charge,16,May,5,2023,Monday,2023-05-22_16
+26,2023-11-17,14:09:36,Ice Cream,Soda,1,Regular,14.54,1,9.4,0,skin,Accidental Charge,14,November,11,2023,Friday,2023-11-17_14
+27,2023-08-30,16:04:48,Candy,Swedish Fish,0,Regular,4.96,1,0.64,0,game,Returned Goods,16,August,8,2023,Wednesday,2023-08-30_16
+28,2025-06-12,12:00:00,Ice Cream,Snickers,3,Regular,2.89,0,2.38,0,natural,Accidental Charge,12,June,6,2025,Thursday,2025-06-12_12
+29,2023-11-17,15:07:12,Beverages,Beef Stick,1,Regular,3.42,0,1.54,0,resource,Fraudulent Charge,15,November,11,2023,Friday,2023-11-17_15
+30,2026-04-13,17:31:12,Ice Cream,Sour Patch Kids,0,Regular,3.57,1,5.13,0,forward,Accidental charge,17,April,4,2026,Monday,2026-04-13_17
+31,2023-06-13,12:57:36,Candy,Soda,1,Regular,1.67,-1,6.57,0,eight,Fraudulent Charge,12,June,6,2023,Tuesday,2023-06-13_12
+32,2025-01-02,16:33:36,Chips,Swedish Fish,3,Regular,0.15,1,5.41,0,there,Returned Goods,16,January,1,2025,Thursday,2025-01-02_16
+33,2024-01-24,15:36:00,Food,Skittles,2,Strawberry,7.83,-1,9.48,0,hand,Accidental Charge,15,January,1,2024,Wednesday,2024-01-24_15
+34,2026-03-25,13:12:00,Italian ice,Airhead Extreme,2,Regular,7.51,0,17.39,0,accept,Fraudulent Charge,13,March,3,2026,Wednesday,2026-03-25_13
+35,2023-06-18,11:16:48,Food,Sour Patch Kids,1,Regular,0.0,0,4.79,0,very,Accidental Charge,11,June,6,2023,Sunday,2023-06-18_11
+36,2026-08-13,14:52:48,Beverages,Cheese Cup,2,Regular,1.47,1,1.27,0,collection,Returned Goods,14,August,8,2026,Thursday,2026-08-13_14
+37,2025-03-18,11:02:24,Ice Cream,Gatorade,4,Regular,14.06,0,7.64,0,your,Accidental Charge,11,March,3,2025,Tuesday,2025-03-18_11
+38,2025-11-27,13:26:24,Chips,Oreo Cookie Ice Cream Sandwich,0,Regular,7.47,1,5.01,0,wear,Returned Goods,13,November,11,2025,Thursday,2025-11-27_13
+39,2023-06-10,16:19:12,Beverages,Hamburger Meal July 4,1,Lemon Italian Ice Cup,6.93,1,3.63,0,already,Returned Goods,16,June,6,2023,Saturday,2023-06-10_16
+40,2025-10-02,12:57:36,Jerk Chicken Tickets,Juicy Drop Pop,0,Regular,1.2,-1,7.19,0,car,Accidental Charge,12,October,10,2025,Thursday,2025-10-02_12
+41,2024-01-10,14:09:36,Ice Cream,Giant Pixy Stix,0,Regular,5.84,-1,8.55,0,also,Returned Goods,14,January,1,2024,Wednesday,2024-01-10_14
+42,2025-05-08,12:14:24,Beverages,Airhead Extreme,1,Regular,1.7,-2,19.72,0,evening,Returned Goods,12,May,5,2025,Thursday,2025-05-08_12
+43,2026-02-01,16:04:48,Food,Fudge Bar,-1,Regular,7.69,0,6.02,0,pretty,Accidental Charge,16,February,2,2026,Sunday,2026-02-01_16
+44,2025-06-23,13:55:12,Food,Fruit by the Foot,-1,Regular,0.47,1,2.11,0,important,Canceled Order,13,June,6,2025,Monday,2025-06-23_13
+45,2025-10-21,16:33:36,Candy,Microwave Popcorn,2,Diet Coke,3.08,-1,4.03,0,guy,Fraudulent Charge,16,October,10,2025,Tuesday,2025-10-21_16
+46,2026-01-26,15:21:36,Ice Cream,Reese Ice Cream Pops,2,Regular,5.07,0,2.52,0,stage,Returned Goods,15,January,1,2026,Monday,2026-01-26_15
+47,2024-11-14,16:48:00,Food,Doritos,0,Cool Ranch,4.57,-1,7.51,0,determine,Accidental Charge,16,November,11,2024,Thursday,2024-11-14_16
+48,2026-07-19,13:55:12,Food,Soda,3,Regular,0.75,-2,6.05,0,control,Accidental Charge,13,July,7,2026,Sunday,2026-07-19_13
+49,2024-11-25,14:09:36,Chips,Ice Cream Sandwich,3,Regular,1.05,-1,5.92,0,argue,Returned Goods,14,November,11,2024,Monday,2024-11-25_14
+50,2024-11-22,17:02:24,Food,Lunchables,3,Regular,4.5,0,8.72,0,close,Returned Goods,17,November,11,2024,Friday,2024-11-22_17
+51,2026-02-27,17:02:24,Beverages,Doritos,3,Regular,14.78,0,0.78,0,deal,Accidental Charge,17,February,2,2026,Friday,2026-02-27_17
+52,2024-05-25,15:50:24,Candy,Drumstick Ice Cream Cone,1,Regular,4.74,1,8.32,0,movie,Accidental Charge,15,May,5,2024,Saturday,2024-05-25_15
+53,2025-05-15,18:14:24,Ice Cream,Pringles,0,Regular,7.56,-2,4.4,0,stock,Returned Goods,18,May,5,2025,Thursday,2025-05-15_18
+54,2025-07-18,12:00:00,Ice Cream,Corn Dog,0,Regular,1.1,0,0.4,0,reflect,Canceled Order,12,July,7,2025,Friday,2025-07-18_12
+55,2025-02-07,17:16:48,Beverages,Soft Pretzel,0,Regular,1.05,0,14.66,0,defense,Accidental Charge,17,February,2,2025,Friday,2025-02-07_17
+56,2024-06-01,16:04:48,Candy,Soft Pretzel,0,Regular,23.9,0,12.77,0,generation,Returned Goods,16,June,6,2024,Saturday,2024-06-01_16
+57,2024-10-14,17:31:12,Chips,Reese's PB Cup,0,Regular,2.72,-1,0.85,0,woman,No Show,17,October,10,2024,Monday,2024-10-14_17
+58,2025-07-22,14:09:36,Food,Giant Pixy Stix,0,Regular,10.82,1,15.4,0,carry,Returned Goods,14,July,7,2025,Tuesday,2025-07-22_14
+59,2026-07-31,14:52:48,Food,Swedish Fish,1,Regular,0.37,0,6.46,0,third,Returned Goods,14,July,7,2026,Friday,2026-07-31_14
+60,2026-04-12,13:12:00,Chips,Balanced Breaks,2,Regular,0.07,1,4.02,0,future,Returned Goods,13,April,4,2026,Sunday,2026-04-12_13
+61,2025-08-27,12:28:48,Jerk Chicken Tickets,Capri Sun,0,Regular,3.97,0,3.03,0,street,Accidental Charge,12,August,8,2025,Wednesday,2025-08-27_12
+62,2024-01-24,12:28:48,Food,Soft Pretzel,1,Regular,2.39,-2,12.87,0,perhaps,Accidental Charge,12,January,1,2024,Wednesday,2024-01-24_12
+63,2025-04-18,14:38:24,Chips,Goldfish,3,Regular,12.62,0,0.28,0,entire,Accidental Charge,14,April,4,2025,Friday,2025-04-18_14
+64,2025-03-21,16:19:12,Food,Gatorade Blue,1,Regular,2.16,-1,2.8,0,owner,Returned Goods,16,March,3,2025,Friday,2025-03-21_16
+65,2024-05-23,14:52:48,Food,Soda,0,Regular,5.75,1,6.33,0,past,Returned Goods,14,May,5,2024,Thursday,2024-05-23_14
+66,2023-07-06,18:00:00,Food,Twin Pop,2,Regular,3.38,0,2.47,0,serious,Accidental Charge,18,July,7,2023,Thursday,2023-07-06_18
+67,2026-07-15,15:21:36,Beverages,Drumstick Ice Cream Cone,3,Regular,15.66,0,18.17,0,thousand,Accidental charge,15,July,7,2026,Wednesday,2026-07-15_15
+68,2026-07-07,17:16:48,Candy,Rice Krispie Treat,1,Regular,2.96,1,6.05,0,father,Canceled Order,17,July,7,2026,Tuesday,2026-07-07_17
+69,2024-02-11,12:43:12,Candy,Kit Kat,2,Cool Ranch,4.26,0,2.62,0,my,Canceled Order,12,February,2,2024,Sunday,2024-02-11_12
+70,2024-11-15,20:24:00,Beverages,Soda,0,Regular,10.22,0,8.69,0,decade,Fraudulent Charge,20,November,11,2024,Friday,2024-11-15_20
+71,2025-11-16,15:21:36,Guest Passes,Drumstick Ice Cream Cone,1,Regular,9.57,-2,2.64,0,but,Returned Goods,15,November,11,2025,Sunday,2025-11-16_15
+72,2024-12-01,12:00:00,Food,Bomb Pop,3,Regular,8.49,-1,14.41,0,behind,Returned Goods,12,December,12,2024,Sunday,2024-12-01_12
+73,2024-04-13,14:09:36,Food,Baby Bottle Pops,2,Regular,15.21,1,2.21,0,newspaper,Returned Goods,14,April,4,2024,Saturday,2024-04-13_14
+74,2024-06-11,18:00:00,Guest Passes,White Cheddar Popcorn,1,Regular,3.98,1,2.11,0,low,Returned Goods,18,June,6,2024,Tuesday,2024-06-11_18
+75,2026-07-26,15:36:00,Food,Chocolate Eclair Bar,1,Regular,6.17,0,0.1,0,ever,Returned Goods,15,July,7,2026,Sunday,2026-07-26_15
+76,2023-07-01,17:31:12,Beverages,Fun Dip,2,Regular,8.0,1,0.27,0,week,Accidental Charge,17,July,7,2023,Saturday,2023-07-01_17
+77,2023-07-25,14:09:36,Candy,Soda,2,Vanilla,3.04,1,16.11,0,lot,Returned Goods,14,July,7,2023,Tuesday,2023-07-25_14
+78,2025-12-07,16:33:36,Candy,Bomb Pop,2,Regular,4.41,1,6.36,0,bill,Not In Stock,16,December,12,2025,Sunday,2025-12-07_16
+79,2024-09-10,16:19:12,Ice Cream,Soda,2,Regular,7.62,1,18.6,0,trade,Canceled Order,16,September,9,2024,Tuesday,2024-09-10_16
+80,2024-03-22,13:55:12,Food,Twix,1,Regular,10.2,0,6.24,0,himself,Accidental Charge,13,March,3,2024,Friday,2024-03-22_13
+81,2023-12-13,12:57:36,Beverages,Drumstick Ice Cream Cone,4,Regular,15.42,0,1.6,0,current,Accidental Charge,12,December,12,2023,Wednesday,2023-12-13_12
+82,2023-09-17,13:40:48,Chips,Chipwich (Chocolate Chip) Ice Cream Sandwich,1,Regular,4.5,1,9.75,0,medical,Accidental charge,13,September,9,2023,Sunday,2023-09-17_13
+83,2026-02-24,14:52:48,Ice Cream,Cheez It,1,Regular,4.64,1,12.21,0,recent,Canceled Order,14,February,2,2026,Tuesday,2026-02-24_14
+84,2023-12-28,13:12:00,Food,Bomb Pop,-1,Regular,7.19,-1,14.74,0,production,Canceled Order,13,December,12,2023,Thursday,2023-12-28_13
+85,2025-08-01,14:24:00,Candy,Vanilla Crunch Bar,-1,Regular Guest Pass,10.08,1,1.02,0,traditional,Accidental Charge,14,August,8,2025,Friday,2025-08-01_14
+86,2023-09-09,12:00:00,Candy,Microwave Popcorn,1,Regular,0.83,1,1.32,0,development,Returned Goods,12,September,9,2023,Saturday,2023-09-09_12
+87,2025-12-30,12:28:48,Ice Cream,Chocolate Eclair Bar,2,Regular,5.95,1,2.9,0,meet,Canceled Order,12,December,12,2025,Tuesday,2025-12-30_12
+88,2023-06-05,16:19:12,Beverages,Bomb Pop,1,Watermelon,7.8,-1,8.74,0,like,Accidental Charge,16,June,6,2023,Monday,2023-06-05_16
+89,2026-07-24,18:00:00,Candy,Sour Patch Kids,2,Regular,0.84,-1,8.53,0,nearly,Fraudulent Charge,18,July,7,2026,Friday,2026-07-24_18
+90,2026-05-31,16:33:36,Beverages,Honey Buns,0,Regular,9.59,-1,1.84,0,authority,Returned Goods,16,May,5,2026,Sunday,2026-05-31_16
+91,2023-12-10,13:55:12,Chips,Ice Cream Sandwich,0,Regular,4.86,-1,14.48,0,break,Returned Goods,13,December,12,2023,Sunday,2023-12-10_13
+92,2023-09-24,10:33:36,Candy,Gummy Worms,0,Regular,1.2,1,7.61,0,hour,Accidental Charge,10,September,9,2023,Sunday,2023-09-24_10
+93,2023-06-18,12:14:24,Candy,Soda,1,Lemonade,0.99,-1,10.7,0,help,Returned Goods,12,June,6,2023,Sunday,2023-06-18_12
+94,2023-12-01,19:40:48,Ice Cream,Lunchables,0,Regular,3.32,0,11.09,0,generation,Returned Goods,19,December,12,2023,Friday,2023-12-01_19
+95,2024-10-22,13:55:12,Ice Cream,Gummy Worms,-1,Regular,0.55,-1,3.15,0,else,Accidental Charge,13,October,10,2024,Tuesday,2024-10-22_13
+96,2025-11-14,16:33:36,Ice Cream,Turkey Hill Tea and Lemonade,-3,Regular,3.3,1,10.69,0,federal,Canceled Order,16,November,11,2025,Friday,2025-11-14_16
+97,2024-05-30,16:33:36,Ice Cream,Bottled Water,2,Regular,3.09,0,12.76,0,some,Fraudulent Charge,16,May,5,2024,Thursday,2024-05-30_16
+98,2024-09-24,14:24:00,Chips,Turkey Hill Tea and Lemonade,2,Vanilla,6.9,-1,13.47,0,agree,Too Hard,14,September,9,2024,Tuesday,2024-09-24_14
+99,2023-08-06,16:04:48,Food,Coke,2,Regular,8.39,1,4.88,0,everybody,Accidental Charge,16,August,8,2023,Sunday,2023-08-06_16
+100,2024-05-01,12:43:12,Candy,Microwave Popcorn,-1,Regular,11.04,1,0.99,0,notice,Expired Food Maddie Approved,12,May,5,2024,Wednesday,2024-05-01_12
+101,2023-10-11,15:07:12,Food,Baby Bottle Pops,3,Regular,12.63,1,0.75,0,put,Expired Product,15,October,10,2023,Wednesday,2023-10-11_15
+102,2023-09-28,16:33:36,Candy,Twizzlers,1,Blue or White / Raspberry Cool,6.33,1,16.25,0,off,Fraudulent Charge,16,September,9,2023,Thursday,2023-09-28_16
+103,2025-06-01,17:02:24,Beverages,Vanilla Crunch Bar,2,Lemonade Tea,3.1,0,8.11,0,water,Accidental charge,17,June,6,2025,Sunday,2025-06-01_17
+104,2024-05-31,17:02:24,Food,Guest Pass,3,Regular,11.57,0,4.92,0,per,Fraudulent Charge,17,May,5,2024,Friday,2024-05-31_17
+105,2023-08-24,16:48:00,Candy,Cheez It,2,Regular,0.79,1,7.75,0,different,Returned Goods,16,August,8,2023,Thursday,2023-08-24_16
+106,2023-07-25,15:21:36,Ice Cream,Chocolate Eclair Bar,0,Regular,5.44,0,14.12,0,bag,Canceled Order,15,July,7,2023,Tuesday,2023-07-25_15
+107,2025-07-09,19:26:24,Food,Orange Dream Bar,1,Regular,6.39,-2,8.39,0,culture,Accidental Charge,19,July,7,2025,Wednesday,2025-07-09_19
+108,2026-02-11,13:26:24,Food,Soft Pretzel,1,Turkey or Ham,3.05,1,7.45,0,term,grandchikdren on account,13,February,2,2026,Wednesday,2026-02-11_13
+109,2023-08-23,12:43:12,Candy,Guest Pass,1,Regular,12.02,0,6.26,0,world,Accidental Charge,12,August,8,2023,Wednesday,2023-08-23_12
+110,2023-06-29,17:02:24,Chips,Soda,3,Regular,6.82,0,3.46,0,down,Returned Goods,17,June,6,2023,Thursday,2023-06-29_17
+111,2024-06-25,12:57:36,Beverages,Coke,2,Capri Sun Pouch,8.64,-1,0.63,0,myself,Canceled Order,12,June,6,2024,Tuesday,2024-06-25_12
+112,2026-07-13,12:57:36,Ice Cream,Gummy Worms,3,Regular,4.29,-1,8.13,0,three,Too Hard,12,July,7,2026,Monday,2026-07-13_12
+113,2025-09-20,12:28:48,Ice Cream,Fruit by the Foot,1,Regular,0.72,-1,9.46,0,on,Returned Goods,12,September,9,2025,Saturday,2025-09-20_12
+114,2024-04-18,12:28:48,Candy,Hummus Cup,-1,Regular,6.14,1,0.2,0,sell,Not In Stock,12,April,4,2024,Thursday,2024-04-18_12
+115,2026-06-28,16:19:12,Beverages,Orange Dream Bar,3,Regular,0.38,1,9.13,0,partner,Accidental Charge,16,June,6,2026,Sunday,2026-06-28_16
+116,2025-07-17,13:55:12,Candy,Guest Pass,4,Cherry Italian Ice Cup,3.27,0,12.38,0,language,Accidental Charge,13,July,7,2025,Thursday,2025-07-17_13
+117,2025-04-04,13:55:12,Ice Cream,Doritos,3,Regular,3.53,1,2.8,0,board,Returned Goods,13,April,4,2025,Friday,2025-04-04_13
+118,2024-01-12,16:19:12,Ice Cream,Soda,2,Regular,4.24,-2,11.55,0,wall,Returned Goods,16,January,1,2024,Friday,2024-01-12_16
+119,2025-09-17,17:02:24,Ice Cream,String Cheese,2,Lemonade,25.45,0,1.04,0,Democrat,Accidental Charge,17,September,9,2025,Wednesday,2025-09-17_17
+120,2023-12-28,15:21:36,Candy,Fudge Bar,1,Regular,1.49,0,4.35,0,wear,Returned Goods,15,December,12,2023,Thursday,2023-12-28_15
+121,2024-02-02,13:40:48,Chips,Orange Dream Bar,3,Regular,3.59,0,2.86,0,weight,Accidental Charge,13,February,2,2024,Friday,2024-02-02_13
+122,2024-02-17,16:04:48,Chips,Fun Dip,3,Brisk Tea,1.93,-1,1.12,0,Mr,Canceled Order,16,February,2,2024,Saturday,2024-02-17_16
+123,2025-05-27,18:14:24,Chips,Pickle Chips,1,Regular,4.9,0,0.93,0,actually,Accidental Charge,18,May,5,2025,Tuesday,2025-05-27_18
+124,2024-08-11,14:24:00,Food,Cotton Candy (Large),1,Regular,5.63,-1,6.58,0,wrong,Accidental charge,14,August,8,2024,Sunday,2024-08-11_14
+125,2023-07-12,16:04:48,Candy,Giant Slim Jim,-1,Regular,1.23,0,6.24,0,billion,Accidental Charge,16,July,7,2023,Wednesday,2023-07-12_16
+126,2026-01-26,15:07:12,Italian ice,Fruit by the Foot,-1,Regular,8.13,0,11.89,0,area,Returned Goods,15,January,1,2026,Monday,2026-01-26_15
+127,2024-01-20,17:31:12,Candy,Pickle Chips,2,Blue,0.67,-1,2.61,0,wonder,Returned Goods,17,January,1,2024,Saturday,2024-01-20_17
+128,2026-03-29,14:24:00,Candy,Takis,1,Regular,0.24,-1,5.88,0,why,Returned Goods,14,March,3,2026,Sunday,2026-03-29_14
+129,2024-06-26,16:04:48,Food,Nerds Rope,1,Blue,7.45,1,6.66,0,democratic,Accidental Charge,16,June,6,2024,Wednesday,2024-06-26_16
+130,2025-06-18,12:57:36,Candy,Turkey Hill Tea and Lemonade,-1,Regular,2.73,0,2.9,0,letter,Returned Goods,12,June,6,2025,Wednesday,2025-06-18_12
+131,2023-09-21,16:19:12,Chips,Twix,1,Diet Iced Tea,1.93,0,5.89,0,law,Accidental Charge,16,September,9,2023,Thursday,2023-09-21_16
+132,2025-09-08,14:09:36,Candy,AirHeads,2,Hershey Bar,5.44,-2,0.69,0,able,Returned Goods,14,September,9,2025,Monday,2025-09-08_14
+133,2025-12-26,18:14:24,Chips,Soft Pretzel,3,Regular,3.02,1,0.71,0,stage,Canceled Order,18,December,12,2025,Friday,2025-12-26_18
+134,2023-06-08,15:07:12,Food,War Heads,2,Dr. Pepper,5.08,1,7.11,0,factor,Not In Stock,15,June,6,2023,Thursday,2023-06-08_15
+135,2024-01-30,18:14:24,Ice Cream,Pavilion Guests,0,Regular,1.04,-1,5.73,0,often,grandchikdren on account,18,January,1,2024,Tuesday,2024-01-30_18
+136,2026-07-11,13:12:00,Beverages,Kit Kat,-1,Regular,6.86,-1,5.3,0,this,Accidental Charge,13,July,7,2026,Saturday,2026-07-11_13
+137,2024-11-21,14:24:00,Beverages,Lunchables,2,Regular,7.99,0,11.26,0,when,Accidental charge,14,November,11,2024,Thursday,2024-11-21_14
+138,2024-09-15,15:21:36,Ice Cream,Cosmic Brownie,0,Regular,9.46,0,2.86,0,media,Not In Stock,15,September,9,2024,Sunday,2024-09-15_15
+139,2025-08-26,15:36:00,Ice Cream,Cotton Candy,2,Regular,7.66,0,3.27,0,probably,Accidental charge,15,August,8,2025,Tuesday,2025-08-26_15
+140,2024-04-03,11:31:12,Chips,Sour Howlers,1,Regular,2.66,-1,16.43,0,step,Returned Goods,11,April,4,2024,Wednesday,2024-04-03_11
+141,2026-03-02,13:26:24,Beverages,Soda,1,Coke,14.69,0,5.34,0,with,Fraudulent Charge,13,March,3,2026,Monday,2026-03-02_13
+142,2024-09-21,17:45:36,Candy,Doritos,0,Regular,6.39,1,0.36,0,trial,Returned Goods,17,September,9,2024,Saturday,2024-09-21_17
+143,2026-03-28,14:52:48,Guest Passes,Sundae Cup - Cookies and Cream,0,Plain,16.87,1,2.17,0,by,Accidental Charge,14,March,3,2026,Saturday,2026-03-28_14
+144,2026-09-03,16:19:12,Candy,Slim Jim,5,Regular,1.07,1,1.0,0,few,Accidental Charge,16,September,9,2026,Thursday,2026-09-03_16
+145,2023-07-11,14:38:24,Food,Turkey Hill Tea and Lemonade,1,Regular,14.18,0,5.41,0,question,Canceled Order,14,July,7,2023,Tuesday,2023-07-11_14
+146,2025-03-15,14:09:36,Food,Hershey Bar,1,Dr. Pepper,18.15,1,0.89,0,actually,Returned Goods,14,March,3,2025,Saturday,2025-03-15_14
+147,2025-11-24,14:52:48,Candy,Push Pops,0,Regular,1.81,0,5.03,0,cultural,Returned Goods,14,November,11,2025,Monday,2025-11-24_14
+148,2025-10-12,16:19:12,Ice Cream,Hotdog Meal July 4,-1,Lemonade,7.09,0,8.42,0,leave,Returned Goods,16,October,10,2025,Sunday,2025-10-12_16
+149,2025-01-04,16:48:00,Ice Cream,Ooze Tubes,-1,Regular,4.34,0,4.44,0,TV,Accidental Charge,16,January,1,2025,Saturday,2025-01-04_16
+150,2023-06-22,15:21:36,Guest Passes,Oreo Cookie Ice Cream Sandwich,-1,Regular,9.49,-1,4.7,0,today,Fraudulent Charge,15,June,6,2023,Thursday,2023-06-22_15
+151,2026-03-27,13:40:48,Food,Bomb Pop,2,Regular,11.17,-1,6.71,0,rather,Accidental Charge,13,March,3,2026,Friday,2026-03-27_13
+152,2026-02-16,20:24:00,Food,Hamburger Meal July 4,3,Regular,2.39,-1,6.87,0,knowledge,Returned Goods,20,February,2,2026,Monday,2026-02-16_20
+153,2026-02-12,16:48:00,Food,Hershey Cookies & Creme,5,Regular,0.7,0,3.09,0,two,Returned Goods,16,February,2,2026,Thursday,2026-02-12_16
+154,2026-08-20,17:45:36,Candy,Guest Pass,0,Regular,0.18,0,10.31,0,again,Not In Stock,17,August,8,2026,Thursday,2026-08-20_17
+155,2025-07-19,14:09:36,Beverages,Italian Ice Tubes,2,Regular,3.96,0,0.48,0,than,Accidental Charge,14,July,7,2025,Saturday,2025-07-19_14
+156,2025-08-04,14:24:00,Ice Cream,Sour Patch Kids,3,Regular,8.59,1,9.81,0,energy,Returned Goods,14,August,8,2025,Monday,2025-08-04_14
+157,2023-08-08,14:38:24,Chips,Gatorade,0,Regular,3.88,0,2.07,0,discuss,Canceled Order,14,August,8,2023,Tuesday,2023-08-08_14
+158,2026-03-18,17:45:36,Beverages,Jerk chicken Tickets,1,Regular,26.02,0,1.29,0,seat,Canceled Order,17,March,3,2026,Wednesday,2026-03-18_17
+159,2026-02-11,13:55:12,Italian ice,Airhead Extreme,-3,Regular,0.58,-1,10.37,0,beautiful,Canceled Order,13,February,2,2026,Wednesday,2026-02-11_13
+160,2026-08-08,14:52:48,Food,Twin Pop,-2,Coke,14.3,0,7.01,0,then,Canceled Order,14,August,8,2026,Saturday,2026-08-08_14
+161,2024-02-02,17:02:24,Ice Cream,Soft Pretzel,3,Regular,17.81,1,3.84,0,allow,Expired Food Maddie Approved,17,February,2,2024,Friday,2024-02-02_17
+162,2025-01-03,18:43:12,Chips,Frozen Snickers,-2,Regular,11.69,1,3.85,0,investment,Returned Goods,18,January,1,2025,Friday,2025-01-03_18
+163,2023-12-16,12:28:48,Food,Airhead Extreme,1,Plain,9.88,-2,5.86,0,attorney,Accidental Charge,12,December,12,2023,Saturday,2023-12-16_12
+164,2026-03-10,14:09:36,Cookout,Reese's PB Cup,3,Cool Ranch,5.64,-1,0.16,0,reveal,Canceled Order,14,March,3,2026,Tuesday,2026-03-10_14
+165,2026-07-28,17:31:12,Beverages,Gatorade Blue,1,Orange,8.03,1,3.34,0,blue,Returned Goods,17,July,7,2026,Tuesday,2026-07-28_17
+166,2025-08-06,17:02:24,Ice Cream,Juicy Drop Pop,-1,Sprite,9.28,0,5.75,0,hold,No Show,17,August,8,2025,Wednesday,2025-08-06_17
+167,2025-03-06,16:48:00,Food,Soda,2,Regular,1.35,0,0.93,0,education,grandchikdren on account,16,March,3,2025,Thursday,2025-03-06_16
+168,2023-11-26,18:28:48,Chips,AirHeads,3,Regular,4.03,1,2.75,0,day,Returned Goods,18,November,11,2023,Sunday,2023-11-26_18
+169,2023-06-20,13:40:48,Candy,Doritos,0,Regular,7.57,0,6.77,0,south,Fraudulent Charge,13,June,6,2023,Tuesday,2023-06-20_13
+170,2025-01-01,14:24:00,Food,M&M's,2,Regular,10.9,-1,1.77,0,information,Canceled Order,14,January,1,2025,Wednesday,2025-01-01_14
+171,2026-06-20,14:52:48,Candy,Pringles,2,Regular,0.27,1,13.36,0,agent,Swap,14,June,6,2026,Saturday,2026-06-20_14
+172,2025-07-21,14:52:48,Beverages,Hershey Cookies & Creme,3,Regular,3.37,-1,0.17,0,key,Returned Goods,14,July,7,2025,Monday,2025-07-21_14
+173,2024-02-07,15:07:12,Food,Drumstick Ice Cream Cone,-2,Regular,3.75,1,1.97,0,which,Returned Goods,15,February,2,2024,Wednesday,2024-02-07_15
+174,2024-02-22,14:09:36,July 4th cook out,Giant Freeze Pop,1,Regular,16.27,1,9.37,0,hot,Returned Goods,14,February,2,2024,Thursday,2024-02-22_14
+175,2024-09-28,17:16:48,Chips,Oreos,2,Regular,2.96,0,5.66,0,detail,Canceled Order,17,September,9,2024,Saturday,2024-09-28_17
+176,2023-09-21,16:19:12,Beverages,Bomb Pop,3,Regular,9.0,-2,5.98,0,high,Canceled Order,16,September,9,2023,Thursday,2023-09-21_16
+177,2024-04-21,17:31:12,Candy,Uncrustables,3,Regular,0.63,0,1.52,0,indicate,Canceled Order,17,April,4,2024,Sunday,2024-04-21_17
+178,2023-08-08,12:57:36,Beverages,Chocolate Chip Granola Bars,0,Pizza,2.33,0,20.14,0,since,Returned Goods,12,August,8,2023,Tuesday,2023-08-08_12
+179,2026-08-26,14:24:00,Candy,Soft Pretzel,1,Regular,3.91,1,10.56,0,quite,grogan caregiver,14,August,8,2026,Wednesday,2026-08-26_14
+180,2026-04-05,17:31:12,Beverages,Lunchables (Pizza),1,Regular,12.27,0,3.92,0,design,Canceled Order,17,April,4,2026,Sunday,2026-04-05_17
+181,2026-07-06,20:52:48,Candy,Soft Pretzel,0,Regular,12.31,-1,5.88,0,citizen,Fraudulent Charge,20,July,7,2026,Monday,2026-07-06_20
+182,2026-01-26,11:16:48,Food,Slime Licker Pop,2,Peanut,3.7,1,7.25,0,seem,Returned Goods,11,January,1,2026,Monday,2026-01-26_11
+183,2026-09-03,17:31:12,Food,Chipwich (Chocolate Chip) Ice Cream Sandwich,0,Regular,1.69,0,9.47,0,more,Fraudulent Charge,17,September,9,2026,Thursday,2026-09-03_17
+184,2024-11-22,15:36:00,Chips,Italian Ice (Lemon),2,Pizza,8.81,0,1.58,0,type,Bad,15,November,11,2024,Friday,2024-11-22_15
+185,2023-12-04,15:36:00,Chips,Ice Cream Sandwich,2,Regular,6.27,-1,3.88,0,middle,Accidental Charge,15,December,12,2023,Monday,2023-12-04_15
+186,2024-12-27,16:33:36,Ice Cream,Swedish Fish,3,Regular,5.16,-1,3.32,0,stage,Canceled Order,16,December,12,2024,Friday,2024-12-27_16
+187,2024-08-25,16:48:00,Candy,Sour Patch Kids,2,Regular,5.32,0,10.29,0,natural,Returned Goods,16,August,8,2024,Sunday,2024-08-25_16
+188,2024-04-08,16:04:48,Food,Gatorade,2,Regular,5.52,1,16.08,0,every,Fraudulent Charge,16,April,4,2024,Monday,2024-04-08_16
+189,2026-03-27,17:02:24,July 4th cook out,Chocolate Eclair Bar,-1,Regular,12.73,0,8.29,0,chance,Fraudulent Charge,17,March,3,2026,Friday,2026-03-27_17
+190,2025-12-01,12:00:00,Food,AirHeads,2,Regular,0.37,1,7.28,0,join,Accidental Charge,12,December,12,2025,Monday,2025-12-01_12
+191,2026-08-20,14:09:36,Beverages,Guest Pass,5,Regular,9.93,0,1.05,0,feel,Returned Goods,14,August,8,2026,Thursday,2026-08-20_14
+192,2023-09-21,13:55:12,Food,Cheese Cup,0,Regular,0.08,0,10.06,0,point,Returned Goods,13,September,9,2023,Thursday,2023-09-21_13
+193,2023-11-26,18:57:36,Candy,Soda,-1,Regular,3.87,0,3.09,0,often,Returned Goods,18,November,11,2023,Sunday,2023-11-26_18
+194,2025-02-05,16:48:00,Ice Cream,Soft Pretzel,0,Regular,9.99,1,5.76,0,force,Returned Goods,16,February,2,2025,Wednesday,2025-02-05_16
+195,2024-02-15,16:19:12,Ice Cream,Sour Spray (Warheads),1,Regular,6.23,-2,1.46,0,economy,Accidental Charge,16,February,2,2024,Thursday,2024-02-15_16
+196,2023-08-29,13:55:12,Candy,Cherry Pineapple Monster Pop,-1,Regular,1.63,-1,1.92,0,back,Canceled Order,13,August,8,2023,Tuesday,2023-08-29_13
+197,2024-09-01,13:40:48,Candy,Gummy Worms,1,Pizza,9.67,-3,4.27,0,bed,Canceled Order,13,September,9,2024,Sunday,2024-09-01_13
+198,2026-08-15,13:40:48,Guest Passes,Cheetos,3,Regular,4.91,-2,5.47,0,grow,Accidental charge,13,August,8,2026,Saturday,2026-08-15_13
+199,2025-04-01,12:57:36,Ice Cream,Cheese Cup,2,Diet Coke,6.38,-2,5.7,0,only,Accidental Charge,12,April,4,2025,Tuesday,2025-04-01_12
+200,2025-09-06,12:57:36,Italian ice,Ice Cream Sandwich,0,Regular,4.86,-2,19.48,0,administration,Accidental Charge,12,September,9,2025,Saturday,2025-09-06_12

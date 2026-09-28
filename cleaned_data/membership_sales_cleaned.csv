@@ -1,0 +1,146 @@
+membership_sale_id,order_id,payment_status,method,acct_id,billing_member_name,category,title,quantity,price,total,created_date,created_time,payment_date_only,payment_time,created_hour,payment_hour,created_month,created_month_num,created_year,created_day_of_week,payment_month,payment_month_num,payment_year,payment_day_of_week
+1,12258,paid,credit,923,Sell Spring,Guest Fee,letter pull since,2,35.4,135.39,2026-04-04,00:00:00,2026-04-03,00:00:00,0,0,April,4,2026,Saturday,April,4,2026,Friday
+2,2051,paid,credit,514,Thus Leg,Membership Fee,look money couple,1,275.92,-9.18,2023-07-05,00:00:00,2019-03-09,00:00:00,0,0,July,7,2023,Wednesday,March,3,2019,Saturday
+3,5658,paid,Credit Card,2413,Special And,Guest Fee,box particular interview,2,26.12,103.9,2026-08-28,00:00:00,2022-09-04,00:00:00,0,0,August,8,2026,Friday,September,9,2022,Sunday
+4,8825,paid,credit,1849,Life Institution,Membership Fee,public trip adult,3,278.32,-28.43,2020-07-26,00:00:00,2020-12-24,00:00:00,0,0,July,7,2020,Sunday,December,12,2020,Thursday
+5,16741,paid,Cash,1669,Level System,Guest Fee,question study big,1,192.41,-45.0,2021-03-05,00:00:00,2022-09-03,00:00:00,0,0,March,3,2021,Friday,September,9,2022,Saturday
+6,11370,paid,credit,872,Reach Foot,Membership Fee,people state production,0,46.2,237.79,2023-03-14,00:00:00,2024-08-26,00:00:00,0,0,March,3,2023,Tuesday,August,8,2024,Monday
+7,12943,paid,credit,1352,These Brother,Membership Fee,soon kind century,1,198.87,78.04,2025-10-10,00:00:00,2024-10-18,00:00:00,0,0,October,10,2025,Friday,October,10,2024,Friday
+8,10061,paid,credit,314,Among Own,Membership Fee,event these step,3,156.84,64.89,2019-08-18,00:00:00,2022-02-23,00:00:00,0,0,August,8,2019,Sunday,February,2,2022,Wednesday
+9,17129,paid,credit,239,Sense Something,Membership Fee,dark simple information,2,51.09,97.25,2024-01-06,00:00:00,2018-01-26,00:00:00,0,0,January,1,2024,Saturday,January,1,2018,Friday
+10,13046,paid,check,1286,New Mr,Membership Fee,nice science without,3,52.82,-39.73,2024-06-09,00:00:00,2025-11-14,00:00:00,0,0,June,6,2024,Sunday,November,11,2025,Friday
+11,9600,paid,Credit Card,404,Record Agent,Online Processing Fee,soldier party somebody,1,121.41,-45.0,2023-12-10,00:00:00,2024-07-18,00:00:00,0,0,December,12,2023,Sunday,July,7,2024,Thursday
+12,16110,paid,credit,1794,He Sometimes,Guest Fee,property sell company,1,106.43,121.7,2023-12-27,00:00:00,2022-06-30,00:00:00,0,0,December,12,2023,Wednesday,June,6,2022,Thursday
+13,5454,paid,check,865,Account Protect,Membership Fee,work beyond ago,2,133.26,59.15,2022-12-07,00:00:00,2024-10-17,00:00:00,0,0,December,12,2022,Wednesday,October,10,2024,Thursday
+14,8373,paid,cash,894,Seek Performance,Membership Fee,carry read worker,1,83.88,231.81,2023-07-26,00:00:00,2019-11-13,00:00:00,0,0,July,7,2023,Wednesday,November,11,2019,Wednesday
+15,13518,paid,credit,1888,True Room,Membership Fee,us management bill,1,186.69,110.53,2021-08-03,00:00:00,2019-03-22,00:00:00,0,0,August,8,2021,Tuesday,March,3,2019,Friday
+16,14140,paid,check,1503,Blood Necessary,Guest Fee,especially fight kitchen,1,57.78,250.88,2020-01-10,00:00:00,2021-08-23,00:00:00,0,0,January,1,2020,Friday,August,8,2021,Monday
+17,8068,paid,cash,410,Politics Consider,Membership Fee,bit show fear,0,24.5,296.03,2020-12-23,00:00:00,2021-11-13,00:00:00,0,0,December,12,2020,Wednesday,November,11,2021,Saturday
+18,8748,paid,cash,748,Resource Dinner,Membership Fee,itself professor fill,1,226.78,261.82,2022-12-30,00:00:00,2023-01-04,00:00:00,0,0,December,12,2022,Friday,January,1,2023,Wednesday
+19,12968,paid,credit,1056,Worry Full,Membership Fee,safe no benefit,2,159.0,-45.0,2022-04-23,00:00:00,2025-05-02,00:00:00,0,0,April,4,2022,Saturday,May,5,2025,Friday
+20,2651,paid,credit,1206,Lose Theory,Guest Fee,money own phone,0,190.15,31.5,2019-03-02,00:00:00,2019-07-27,00:00:00,0,0,March,3,2019,Saturday,July,7,2019,Saturday
+21,14480,paid,credit,827,Organization Civil,Membership Fee,two by something,2,143.35,199.79,2019-01-09,00:00:00,2026-04-20,00:00:00,0,0,January,1,2019,Wednesday,April,4,2026,Monday
+22,13274,paid,credit,3,Partner Page,Guest Fee,move with guy,2,219.08,200.41,2026-08-29,00:00:00,2018-02-05,00:00:00,0,0,August,8,2026,Saturday,February,2,2018,Monday
+23,8843,paid,cash,987,Learn Economy,Membership Fee,various support floor,0,16.34,115.95,2018-07-17,00:00:00,2019-03-28,00:00:00,0,0,July,7,2018,Tuesday,March,3,2019,Thursday
+24,886,paid,Credit Card,2043,At Him,Guest Fee,property step determine,0,160.63,86.14,2023-07-14,00:00:00,2024-07-24,00:00:00,0,0,July,7,2023,Friday,July,7,2024,Wednesday
+25,13089,paid,credit,354,Look Fight,Membership Fee,understand under bit,0,49.53,264.01,2018-03-19,00:00:00,2024-08-28,00:00:00,0,0,March,3,2018,Monday,August,8,2024,Wednesday
+26,10133,paid,check,1814,Choose Weight,Guest Fee,military yes important,4,26.32,56.74,2021-01-30,00:00:00,2021-09-09,00:00:00,0,0,January,1,2021,Saturday,September,9,2021,Thursday
+27,5885,paid,credit,1252,Value Response,Guest Fee,represent reality agent,3,247.77,-45.0,2023-11-14,00:00:00,2022-06-30,00:00:00,0,0,November,11,2023,Tuesday,June,6,2022,Thursday
+28,3,paid,credit,821,Detail Debate,Guest Fee,affect single under,1,406.76,162.63,2021-07-16,00:00:00,2024-05-10,00:00:00,0,0,July,7,2021,Friday,May,5,2024,Friday
+29,14494,paid,credit,1357,Ahead Turn,Membership Fee,nothing measure challenge,0,223.36,250.42,2023-07-08,00:00:00,2021-12-30,00:00:00,0,0,July,7,2023,Saturday,December,12,2021,Thursday
+30,5687,paid,credit,1688,Weight General,Equity Fee,tend military seven,2,316.86,98.31,2026-05-06,00:00:00,2020-08-29,00:00:00,0,0,May,5,2026,Wednesday,August,8,2020,Saturday
+31,11035,paid,credit,2096,Responsibility Majority,Equity Fee,music foot situation,0,138.35,180.67,2023-01-08,00:00:00,2023-11-29,00:00:00,0,0,January,1,2023,Sunday,November,11,2023,Wednesday
+32,11490,paid,credit,574,Rock Budget,Membership Fee,front board the,0,237.8,53.62,2025-12-06,00:00:00,2025-11-15,00:00:00,0,0,December,12,2025,Saturday,November,11,2025,Saturday
+33,17129,paid,credit,1037,New Her,Guest Fee,economy bed surface,0,197.26,198.21,2020-01-06,00:00:00,2023-01-03,00:00:00,0,0,January,1,2020,Monday,January,1,2023,Tuesday
+34,12458,paid,cash,775,Attack For,Membership Fee,election finally must,1,215.28,-45.0,2020-09-25,00:00:00,2021-08-29,00:00:00,0,0,September,9,2020,Friday,August,8,2021,Sunday
+35,16406,paid,credit,787,Property Agency,Membership Fee,hundred Republican dog,2,19.36,181.49,2026-02-12,00:00:00,2020-06-01,00:00:00,0,0,February,2,2026,Thursday,June,6,2020,Monday
+36,15443,paid,cash,1705,Live On,Membership Fee,around fast catch,1,159.02,-45.0,2025-06-10,00:00:00,2018-11-21,00:00:00,0,0,June,6,2025,Tuesday,November,11,2018,Wednesday
+37,15462,paid,credit,1833,Television Direction,Guest Fee,different item offer,2,82.42,135.93,2025-04-23,00:00:00,2020-02-14,00:00:00,0,0,April,4,2025,Wednesday,February,2,2020,Friday
+38,14151,paid,cash,1521,Catch Traditional,Caregiver,scientist most reveal,2,83.72,241.78,2024-12-11,00:00:00,2021-04-30,00:00:00,0,0,December,12,2024,Wednesday,April,4,2021,Friday
+39,9384,paid,check,437,Like Scene,Membership Fee,southern accept property,0,80.31,49.6,2019-08-10,00:00:00,2019-11-13,00:00:00,0,0,August,8,2019,Saturday,November,11,2019,Wednesday
+40,8120,paid,cash,86,Under Want,Membership Fee,bank prevent go,1,64.14,105.54,2019-03-05,00:00:00,2019-12-17,00:00:00,0,0,March,3,2019,Tuesday,December,12,2019,Tuesday
+41,7214,paid,credit,1339,American Me,Membership Fee,race central summer,1,21.91,213.16,2023-10-16,00:00:00,2022-04-20,00:00:00,0,0,October,10,2023,Monday,April,4,2022,Wednesday
+42,8925,paid,check,1290,Food Front,Guest Fee,black behavior police,0,312.12,222.06,2025-01-07,00:00:00,2026-04-04,00:00:00,0,0,January,1,2025,Tuesday,April,4,2026,Saturday
+43,8253,paid,check,895,Law Age,Guest Fee,name rather organization,1,64.2,89.8,2023-02-22,00:00:00,2022-12-04,00:00:00,0,0,February,2,2023,Wednesday,December,12,2022,Sunday
+44,11090,paid,credit,1445,Able Poor,Equity Fee,player each catch,2,53.28,-18.97,2023-12-26,00:00:00,2018-03-10,00:00:00,0,0,December,12,2023,Tuesday,March,3,2018,Saturday
+45,9067,paid,credit,1077,Deal Glass,Guest Fee,race friend wonder,0,201.18,234.9,2018-06-01,00:00:00,2018-08-24,00:00:00,0,0,June,6,2018,Friday,August,8,2018,Friday
+46,9199,paid,Credit Card,351,Help Just,Guest Fee,just say movie,0,207.72,89.05,2020-09-08,00:00:00,2024-05-01,00:00:00,0,0,September,9,2020,Tuesday,May,5,2024,Wednesday
+47,11509,paid,check,660,Produce Do,Membership Fee,than protect part,1,310.91,173.63,2026-08-21,00:00:00,2020-03-24,00:00:00,0,0,August,8,2026,Friday,March,3,2020,Tuesday
+48,6781,paid,Credit Card,1987,Offer Draw,Membership Fee,beautiful anyone author,1,152.67,321.83,2020-09-04,00:00:00,2023-07-04,00:00:00,0,0,September,9,2020,Friday,July,7,2023,Tuesday
+49,2258,paid,credit,1014,When Identify,Membership Fee,shoulder production stand,2,141.14,-10.35,2021-05-02,00:00:00,2025-07-10,00:00:00,0,0,May,5,2021,Sunday,July,7,2025,Thursday
+50,11235,paid,Cash,479,Tax Size,Online Processing Fee,however bit leg,2,155.07,193.19,2026-08-26,00:00:00,2019-11-23,00:00:00,0,0,August,8,2026,Wednesday,November,11,2019,Saturday
+51,3929,paid,credit,573,Boy Republican,Membership Fee,hour where time,1,193.18,72.82,2018-03-08,00:00:00,2024-06-18,00:00:00,0,0,March,3,2018,Thursday,June,6,2024,Tuesday
+52,16823,paid,credit,1557,Others Game,Membership Fee,region specific level,0,56.55,98.74,2022-03-09,00:00:00,2019-02-07,00:00:00,0,0,March,3,2022,Wednesday,February,2,2019,Thursday
+53,17129,paid,Credit Card,781,Tv Meeting,Membership Fee,technology next discover,2,377.37,37.7,2021-01-16,00:00:00,2022-06-29,00:00:00,0,0,January,1,2021,Saturday,June,6,2022,Wednesday
+54,6813,paid,credit,1341,Western Number,Membership Fee,event field responsibility,3,114.71,164.98,2026-06-29,00:00:00,2023-02-27,00:00:00,0,0,June,6,2026,Monday,February,2,2023,Monday
+55,15619,paid,check,1934,Born Capital,Membership Fee,too ask south,1,76.46,-45.0,2024-11-22,00:00:00,2024-12-08,00:00:00,0,0,November,11,2024,Friday,December,12,2024,Sunday
+56,14601,paid,credit,387,Good History,Membership Fee,fly plant run,2,425.41,145.12,2022-07-27,00:00:00,2026-07-18,00:00:00,0,0,July,7,2022,Wednesday,July,7,2026,Saturday
+57,11389,paid,credit,683,Rather Cost,Guest Fee,nearly idea writer,0,258.8,216.93,2026-06-02,00:00:00,2023-03-17,00:00:00,0,0,June,6,2026,Tuesday,March,3,2023,Friday
+58,4458,paid,credit,1389,Provide Prove,Guest Fee,every reveal indeed,1,193.75,172.8,2020-09-10,00:00:00,2026-02-28,00:00:00,0,0,September,9,2020,Thursday,February,2,2026,Saturday
+59,9290,paid,credit,1392,Language Painting,Online Processing Fee,mention they loss,2,203.22,97.61,2024-08-31,00:00:00,2018-01-22,00:00:00,0,0,August,8,2024,Saturday,January,1,2018,Monday
+60,4681,paid,cash,464,Manager Recent,Online Processing Fee,watch Congress across,2,152.54,-27.19,2022-01-28,00:00:00,2024-08-07,00:00:00,0,0,January,1,2022,Friday,August,8,2024,Wednesday
+61,13465,paid,cash,1968,Race Among,Membership Fee,watch value wife,0,200.75,-45.0,2025-10-28,00:00:00,2021-12-12,00:00:00,0,0,October,10,2025,Tuesday,December,12,2021,Sunday
+62,11244,paid,credit,928,Could Brother,Membership Fee,agree wind admit,1,81.18,74.9,2023-05-23,00:00:00,2025-06-01,00:00:00,0,0,May,5,2023,Tuesday,June,6,2025,Sunday
+63,2089,paid,credit,1323,Money Land,Grandchild,world crime knowledge,2,97.43,322.12,2022-01-15,00:00:00,2022-06-15,00:00:00,0,0,January,1,2022,Saturday,June,6,2022,Wednesday
+64,14344,paid,check,1269,Dinner Government,Equity Fee,catch really center,1,113.36,155.73,2024-04-04,00:00:00,2021-11-10,00:00:00,0,0,April,4,2024,Thursday,November,11,2021,Wednesday
+65,7985,paid,cash,1680,Government Move,Equity Fee,Congress herself TV,1,224.54,138.9,2025-07-08,00:00:00,2025-04-30,00:00:00,0,0,July,7,2025,Tuesday,April,4,2025,Wednesday
+66,12697,paid,credit,310,Us Wind,Online Processing Fee,party see from,0,63.34,19.26,2026-03-08,00:00:00,2022-01-19,00:00:00,0,0,March,3,2026,Sunday,January,1,2022,Wednesday
+67,16497,paid,credit,2143,Hold Find,Guest Fee,number involve quality,1,66.68,250.5,2022-11-23,00:00:00,2024-01-25,00:00:00,0,0,November,11,2022,Wednesday,January,1,2024,Thursday
+68,3287,paid,credit,1765,Add Official,Membership Fee,on standard discussion,2,187.77,173.94,2018-06-02,00:00:00,2020-10-13,00:00:00,0,0,June,6,2018,Saturday,October,10,2020,Tuesday
+69,7297,paid,check,1070,Exactly Nothing,Equity Fee,claim serious cost,4,78.7,10.94,2018-10-06,00:00:00,2018-01-14,00:00:00,0,0,October,10,2018,Saturday,January,1,2018,Sunday
+70,15121,paid,check,1526,Training Responsibility,Membership Fee,bill break show,2,17.24,189.51,2023-09-22,00:00:00,2020-04-10,00:00:00,0,0,September,9,2023,Friday,April,4,2020,Friday
+71,17129,paid,credit,1747,Per Boy,Guest Fee,across student study,0,49.55,225.94,2022-11-15,00:00:00,2023-10-09,00:00:00,0,0,November,11,2022,Tuesday,October,10,2023,Monday
+72,6276,paid,cash,722,Reflect They,Membership Fee,everything door space,1,174.05,165.12,2024-08-24,00:00:00,2023-08-04,00:00:00,0,0,August,8,2024,Saturday,August,8,2023,Friday
+73,13286,paid,credit,926,Truth Surface,Membership Fee,allow lose student,2,104.82,-45.0,2024-03-24,00:00:00,2018-09-11,00:00:00,0,0,March,3,2024,Sunday,September,9,2018,Tuesday
+74,10996,paid,cash,968,Forward Our,Membership Fee,laugh information entire,1,87.5,35.03,2018-09-03,00:00:00,2021-07-24,00:00:00,0,0,September,9,2018,Monday,July,7,2021,Saturday
+75,14273,paid,cash,559,Training Study,Membership Fee,democratic available arrive,0,19.2,106.79,2022-11-25,00:00:00,2026-08-21,00:00:00,0,0,November,11,2022,Friday,August,8,2026,Friday
+76,7845,paid,credit,571,Development Back,Membership Fee,indicate your design,2,310.33,-45.0,2023-01-22,00:00:00,2021-11-15,00:00:00,0,0,January,1,2023,Sunday,November,11,2021,Monday
+77,13476,paid,credit,934,Word Create,Membership Fee,debate fact Mrs,0,103.15,92.12,2022-11-18,00:00:00,2018-12-11,00:00:00,0,0,November,11,2022,Friday,December,12,2018,Tuesday
+78,8304,paid,cash,744,Cost Article,Membership Fee,production west want,2,148.91,58.87,2024-05-10,00:00:00,2020-07-20,00:00:00,0,0,May,5,2024,Friday,July,7,2020,Monday
+79,10087,paid,check,1462,But Federal,Membership Fee,leg least nearly,1,316.34,161.9,2022-05-29,00:00:00,2023-01-07,00:00:00,0,0,May,5,2022,Sunday,January,1,2023,Saturday
+80,10560,paid,check,894,Finally Receive,Guest Fee,local consumer chance,1,76.12,165.61,2025-03-01,00:00:00,2024-07-25,00:00:00,0,0,March,3,2025,Saturday,July,7,2024,Thursday
+81,14110,paid,credit,379,Situation Example,Membership Fee,born person serve,2,43.62,119.2,2024-10-28,00:00:00,2022-04-21,00:00:00,0,0,October,10,2024,Monday,April,4,2022,Thursday
+82,5978,paid,check,648,Ask Question,Equity Fee,product nice through,0,95.73,172.27,2022-04-18,00:00:00,2021-06-10,00:00:00,0,0,April,4,2022,Monday,June,6,2021,Thursday
+83,8572,paid,credit,1131,Strong Coach,Membership Fee,discover environment thing,1,296.77,-37.2,2019-11-30,00:00:00,2020-09-27,00:00:00,0,0,November,11,2019,Saturday,September,9,2020,Sunday
+84,13225,paid,credit,670,Feeling Impact,Membership Fee,view history exactly,2,13.13,-45.0,2023-07-16,00:00:00,2026-03-17,00:00:00,0,0,July,7,2023,Sunday,March,3,2026,Tuesday
+85,10166,paid,cash,1007,Read Available,Membership Fee,medical message authority,2,223.71,101.94,2021-11-19,00:00:00,2022-03-24,00:00:00,0,0,November,11,2021,Friday,March,3,2022,Thursday
+86,10861,paid,cash,1441,Loss Where,Membership Fee,people three produce,0,148.64,209.29,2020-03-22,00:00:00,2023-04-03,00:00:00,0,0,March,3,2020,Sunday,April,4,2023,Monday
+87,15683,paid,credit,1867,Tend Road,Online Processing Fee,decide everything firm,1,106.41,81.65,2020-12-04,00:00:00,2025-03-02,00:00:00,0,0,December,12,2020,Friday,March,3,2025,Sunday
+88,9596,paid,Cash,1930,Surface Successful,Guest Fee,consider thing act,2,151.62,177.52,2026-06-21,00:00:00,2019-11-04,00:00:00,0,0,June,6,2026,Sunday,November,11,2019,Monday
+89,16312,paid,check,1673,It Identify,Guest Fee,behavior today bring,1,164.0,192.72,2021-05-17,00:00:00,2023-08-20,00:00:00,0,0,May,5,2021,Monday,August,8,2023,Sunday
+90,11171,paid,Credit Card,730,Remain Will,Guest Fee,ever where position,0,236.05,-29.3,2019-09-25,00:00:00,2022-07-16,00:00:00,0,0,September,9,2019,Wednesday,July,7,2022,Saturday
+91,7732,paid,check,2268,Special Room,Guest Fee,nothing exactly per,1,220.62,196.8,2024-02-04,00:00:00,2019-05-14,00:00:00,0,0,February,2,2024,Sunday,May,5,2019,Tuesday
+92,11110,paid,credit,1364,Unit Already,Membership Fee,election past environmental,2,186.28,-45.0,2024-11-15,00:00:00,2018-01-22,00:00:00,0,0,November,11,2024,Friday,January,1,2018,Monday
+93,16681,paid,credit,1701,Truth Avoid,Membership Fee,four prevent smile,2,401.24,10.33,2017-12-30,00:00:00,2019-06-11,00:00:00,0,0,December,12,2017,Saturday,June,6,2019,Tuesday
+94,11276,paid,cash,2038,Instead Himself,Membership Fee,good doctor prove,2,134.33,170.03,2024-11-13,00:00:00,2026-04-26,00:00:00,0,0,November,11,2024,Wednesday,April,4,2026,Sunday
+95,10965,paid,check,1643,What Street,Online Processing Fee,we Mr he,0,218.3,62.37,2026-07-24,00:00:00,2023-02-21,00:00:00,0,0,July,7,2026,Friday,February,2,2023,Tuesday
+96,3329,paid,credit,1620,Onto Impact,Equity Fee,Democrat several friend,1,265.5,57.12,2025-09-25,00:00:00,2025-11-08,00:00:00,0,0,September,9,2025,Thursday,November,11,2025,Saturday
+97,3,paid,credit,1812,Player Raise,Guest Fee,ok evidence forget,1,50.41,69.31,2023-11-17,00:00:00,2021-02-18,00:00:00,0,0,November,11,2023,Friday,February,2,2021,Thursday
+98,8344,paid,credit,1173,Order Throw,Membership Fee,call speech cell,1,140.48,-45.0,2022-10-04,00:00:00,2018-03-08,00:00:00,0,0,October,10,2022,Tuesday,March,3,2018,Thursday
+99,7044,paid,cash,1444,Central Mrs,Guest Fee,step its opportunity,3,194.55,111.37,2025-01-02,00:00:00,2025-03-03,00:00:00,0,0,January,1,2025,Thursday,March,3,2025,Monday
+100,8288,paid,cash,879,Father Rate,Membership Fee,police box decade,3,79.42,-45.0,2023-08-06,00:00:00,2024-10-03,00:00:00,0,0,August,8,2023,Sunday,October,10,2024,Thursday
+101,13252,paid,credit,643,Reality Very,Membership Fee,bring fly science,2,10.77,11.57,2024-07-15,00:00:00,2022-07-03,00:00:00,0,0,July,7,2024,Monday,July,7,2022,Sunday
+102,14627,paid,credit,1720,Thought Environment,Membership Fee,add hold forget,2,121.07,103.24,2023-12-05,00:00:00,2024-11-17,00:00:00,0,0,December,12,2023,Tuesday,November,11,2024,Sunday
+103,8718,paid,check,464,Imagine Begin,Guest Fee,week college just,0,75.58,-45.0,2026-03-03,00:00:00,2020-12-06,00:00:00,0,0,March,3,2026,Tuesday,December,12,2020,Sunday
+104,8714,paid,credit,3,Phone Body,Membership Fee,break those color,3,298.99,192.51,2022-04-10,00:00:00,2021-12-08,00:00:00,0,0,April,4,2022,Sunday,December,12,2021,Wednesday
+105,10913,paid,Credit Card,271,Baby Father,Online Processing Fee,discover option guess,1,83.49,12.68,2023-02-08,00:00:00,2025-05-02,00:00:00,0,0,February,2,2023,Wednesday,May,5,2025,Friday
+106,11791,paid,cash,306,Design Thing,Membership Fee,others instead message,0,147.5,-4.98,2018-09-07,00:00:00,2024-06-25,00:00:00,0,0,September,9,2018,Friday,June,6,2024,Tuesday
+107,11474,paid,credit,1576,Present Party,Membership Fee,avoid course level,2,6.03,255.52,2025-11-09,00:00:00,2024-01-29,00:00:00,0,0,November,11,2025,Sunday,January,1,2024,Monday
+108,11065,paid,credit,1209,Focus Instead,Guest Fee,least shoulder finally,1,238.81,373.17,2024-10-01,00:00:00,2020-02-20,00:00:00,0,0,October,10,2024,Tuesday,February,2,2020,Thursday
+109,10281,paid,cash,413,Sport Work,Membership Fee,performance open coach,3,177.05,328.54,2021-05-29,00:00:00,2019-09-13,00:00:00,0,0,May,5,2021,Saturday,September,9,2019,Friday
+110,9318,paid,credit,1316,Difficult You,Membership Fee,let southern fall,1,51.96,-45.0,2024-09-18,00:00:00,2022-08-07,00:00:00,0,0,September,9,2024,Wednesday,August,8,2022,Sunday
+111,9215,paid,check,20,System Music,Membership Fee,about reason while,0,116.35,111.69,2018-09-22,00:00:00,2022-05-14,00:00:00,0,0,September,9,2018,Saturday,May,5,2022,Saturday
+112,10514,paid,credit,548,Hospital Product,Membership Fee,best magazine hear,0,33.59,188.36,2023-03-11,00:00:00,2022-12-01,00:00:00,0,0,March,3,2023,Saturday,December,12,2022,Thursday
+113,5927,paid,check,88,What Staff,Membership Fee,floor third try,3,15.74,30.31,2019-03-17,00:00:00,2024-07-10,00:00:00,0,0,March,3,2019,Sunday,July,7,2024,Wednesday
+114,3505,paid,credit,405,Agree Piece,Membership Fee,back put student,2,108.9,381.48,2019-06-14,00:00:00,2024-01-12,00:00:00,0,0,June,6,2019,Friday,January,1,2024,Friday
+115,8565,paid,credit,1542,Energy Region,Guest Fee,score your card,2,31.32,161.35,2025-02-19,00:00:00,2020-11-03,00:00:00,0,0,February,2,2025,Wednesday,November,11,2020,Tuesday
+116,10637,paid,cash,573,Blue Be,Other Resident Adult,list experience side,3,311.61,39.03,2019-03-07,00:00:00,2022-11-04,00:00:00,0,0,March,3,2019,Thursday,November,11,2022,Friday
+117,12399,paid,Credit Card,1929,Defense Accept,Equity Fee,religious benefit area,1,107.54,-45.0,2022-03-22,00:00:00,2023-09-10,00:00:00,0,0,March,3,2022,Tuesday,September,9,2023,Sunday
+118,12823,paid,credit,1186,Surface Mrs,Membership Fee,worker cold middle,2,61.85,202.25,2020-09-21,00:00:00,2018-12-06,00:00:00,0,0,September,9,2020,Monday,December,12,2018,Thursday
+119,9846,paid,Credit Card,370,Never Budget,Membership Fee,over like shoulder,1,7.1,-45.0,2025-01-31,00:00:00,2026-06-23,00:00:00,0,0,January,1,2025,Friday,June,6,2026,Tuesday
+120,9983,paid,check,1547,Act Evidence,Membership Fee,poor reality people,0,77.44,116.22,2020-04-18,00:00:00,2024-09-13,00:00:00,0,0,April,4,2020,Saturday,September,9,2024,Friday
+121,7412,paid,credit,2018,Thousand Work,Equity Fee,might increase reason,2,76.01,-31.32,2024-04-22,00:00:00,2026-09-04,00:00:00,0,0,April,4,2024,Monday,September,9,2026,Friday
+122,13885,paid,check,3,Ball May,Guest Fee,high maybe vote,0,322.65,11.2,2022-05-04,00:00:00,2026-06-05,00:00:00,0,0,May,5,2022,Wednesday,June,6,2026,Friday
+123,1937,paid,credit,387,Defense Yet,Membership Fee,stay successful board,1,220.3,-45.0,2023-07-18,00:00:00,2025-01-19,00:00:00,0,0,July,7,2023,Tuesday,January,1,2025,Sunday
+124,13697,paid,credit,1454,Leg Quality,Guest Fee,employee challenge boy,0,22.08,173.02,2025-08-17,00:00:00,2023-08-07,00:00:00,0,0,August,8,2025,Sunday,August,8,2023,Monday
+125,11541,paid,cash,1328,Animal Per,Membership Fee,memory produce clearly,1,88.95,54.75,2025-03-20,00:00:00,2020-02-07,00:00:00,0,0,March,3,2025,Thursday,February,2,2020,Friday
+126,13478,paid,cash,669,Since Mission,Guest Fee,woman week enter,3,199.76,46.75,2022-02-25,00:00:00,2023-06-29,00:00:00,0,0,February,2,2022,Friday,June,6,2023,Thursday
+127,11924,paid,credit,1145,Heavy Could,Online Processing Fee,game quality little,0,249.6,217.92,2025-07-05,00:00:00,2025-01-25,00:00:00,0,0,July,7,2025,Saturday,January,1,2025,Saturday
+128,17129,paid,cash,1409,Leg Probably,Guest Fee,affect major night,3,141.87,20.93,2018-05-10,00:00:00,2024-06-11,00:00:00,0,0,May,5,2018,Thursday,June,6,2024,Tuesday
+129,7437,paid,check,1133,Decision Rather,Membership Fee,meeting leave hair,2,162.61,72.3,2020-03-25,00:00:00,2026-05-26,00:00:00,0,0,March,3,2020,Wednesday,May,5,2026,Tuesday
+130,11851,paid,cash,998,Institution Position,Guest Fee,nor to officer,2,25.72,-45.0,2021-08-17,00:00:00,2023-06-10,00:00:00,0,0,August,8,2021,Tuesday,June,6,2023,Saturday
+131,7717,paid,cash,993,Produce It,Guest Fee,individual north hard,1,308.82,162.28,2022-07-19,00:00:00,2019-05-21,00:00:00,0,0,July,7,2022,Tuesday,May,5,2019,Tuesday
+132,16512,paid,credit,960,Improve Social,Guest Fee,discussion speech eat,0,393.42,218.09,2026-07-25,00:00:00,2019-03-06,00:00:00,0,0,July,7,2026,Saturday,March,3,2019,Wednesday
+133,11762,paid,credit,1495,Rule Wonder,Online Processing Fee,assume decide drug,2,258.06,54.27,2026-01-27,00:00:00,2023-04-06,00:00:00,0,0,January,1,2026,Tuesday,April,4,2023,Thursday
+134,7566,paid,Credit Card,1522,Management Plant,Membership Fee,put pay ability,0,190.33,310.72,2020-04-23,00:00:00,2018-03-11,00:00:00,0,0,April,4,2020,Thursday,March,3,2018,Sunday
+135,10956,paid,Check,1234,Account Police,Membership Fee,brother learn trade,2,92.69,6.84,2018-07-22,00:00:00,2021-04-26,00:00:00,0,0,July,7,2018,Sunday,April,4,2021,Monday
+136,6622,paid,check,1639,Century Office,Membership Fee,the enter case,0,111.3,102.78,2021-02-17,00:00:00,2026-02-05,00:00:00,0,0,February,2,2021,Wednesday,February,2,2026,Thursday
+137,10804,paid,cash,1196,Forward Positive,Pavilion Rental Fee,American consider real,0,89.28,285.67,2021-10-05,00:00:00,2018-07-19,00:00:00,0,0,October,10,2021,Tuesday,July,7,2018,Thursday
+138,7908,paid,cash,2167,Brother Nice,Guest Fee,event eat natural,2,192.67,142.07,2018-09-07,00:00:00,2024-12-01,00:00:00,0,0,September,9,2018,Friday,December,12,2024,Sunday
+139,11743,paid,credit,998,Beautiful By,Guest Fee,kid something two,4,234.28,110.41,2019-11-05,00:00:00,2026-04-15,00:00:00,0,0,November,11,2019,Tuesday,April,4,2026,Wednesday
+140,9685,paid,credit,1206,Hear Level,Guest Fee,night avoid benefit,2,42.38,142.34,2022-01-11,00:00:00,2021-08-03,00:00:00,0,0,January,1,2022,Tuesday,August,8,2021,Tuesday
+141,532,paid,Credit Card,431,Myself Generation,Guest Fee,traditional happy break,2,189.37,-42.57,2026-04-02,00:00:00,2019-08-16,00:00:00,0,0,April,4,2026,Thursday,August,8,2019,Friday
+142,8495,paid,credit,1072,Amount Become,Guest Fee,reality turn politics,3,79.41,282.58,2021-05-24,00:00:00,2024-06-24,00:00:00,0,0,May,5,2021,Monday,June,6,2024,Monday
+143,15054,paid,credit,1483,Although Ball,Membership Fee,skin manage according,2,1.43,-45.0,2023-08-31,00:00:00,2023-11-24,00:00:00,0,0,August,8,2023,Thursday,November,11,2023,Friday
+144,14003,paid,credit,1600,Three Poor,Membership Fee,do your cause,1,250.95,-22.84,2025-12-20,00:00:00,2019-08-01,00:00:00,0,0,December,12,2025,Saturday,August,8,2019,Thursday
+145,8997,paid,Credit Card,1637,Some Seat,Membership Fee,improve history animal,3,119.36,93.64,2022-12-31,00:00:00,2023-05-03,00:00:00,0,0,December,12,2022,Saturday,May,5,2023,Wednesday

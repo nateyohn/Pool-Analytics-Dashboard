@@ -1,0 +1,16 @@
+# Power BI temporary lock files
+~$*.pbix
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS generated system files
+.DS_Store
+Thumbs.db
+
+# Data Privacy Safety Net
+*.csv
+*.xlsx
+!cleaned_data/*.csv
+!raw_fake_data/*.csv
