@@ -14,3 +14,4 @@ Thumbs.db
 *.xlsx
 !cleaned_data/*.csv
 !raw_fake_data/*.csv
+desktop.ini
