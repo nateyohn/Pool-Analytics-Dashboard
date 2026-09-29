@@ -5,7 +5,7 @@
 ## Executive Summary
 An end-to-end analytics solution built to unify transactional data across facility management systems, POS software, and local weather history. By centralizing raw data from MemberSplash and Square via a Python ETL pipeline, this project delivers actionable operational intelligence to maximize pool attendance and concession revenue.
 
-> **Note on this repository:** The original project loads data into a Supabase (PostgreSQL) database that Power BI connects to directly. This public repo version simplifies that step — the ETL pipeline outputs cleaned CSVs (in `cleaned_data/`) instead of connecting to a live database, so anyone cloning this repo can run it without needing their own Supabase instance.
+> **Note on this repository:** The original project loads data into a Supabase (PostgreSQL) database that Power BI connects to directly. This public repo version simplifies that step: the ETL pipeline outputs cleaned CSVs (in `cleaned_data/`) instead of connecting to a live database, so anyone cloning this repo can run it without needing their own Supabase instance.
 
 > **Note on data:** This is a public repository, so the underlying data has been synthetically regenerated to protect member and business privacy. The statistical relationships (correlations, seasonal trends, lift percentages) are preserved from the original analysis performed for a real regional swim club.
 
@@ -25,7 +25,7 @@ An end-to-end analytics solution built to unify transactional data across facili
 ## Key Business Insights & Recommendations
 * **Check-ins Are the Strongest Predictor of Revenue (r = 0.83):** Statistical analysis revealed that facility check-ins are the strongest observed predictor of concession sales, outperforming pure weather metrics (e.g., temperature/heat index).
   * *Recommendation:* Focus marketing strategies on driving member & guest check-ins. Implement a "Loyalty Perk" (e.g., *Visit 10 times, get 15% off at the Snack Shack*) to incentivize repeat visits.
-* **Food Truck Non-Cannibalization (+27% Attendance):** Historical event analysis showed that bringing external food trucks to the facility was associated with a **27% net increase in overall pool check-ins**, without cannibalizing native concession sales — yielding a net positive revenue impact.
+* **Food Truck Non-Cannibalization (+27% Attendance):** Historical event analysis showed that bringing external food trucks to the facility was associated with a **27% net increase in overall pool check-ins**, without cannibalizing native concession sales, yielding a net positive revenue impact.
   * *Recommendation:* Expand the number of food truck events given the sizable uptick in attendance, which drives both food truck sales and concession sales.
 * **Inventory Stockout & Bundling Strategy:** Leveraged domain experience (lifeguard operations) alongside item-level sales distribution to identify consistent stockouts on top-selling concession items.
   * *Recommendation:* Expand capacity of top-selling items (soft pretzels) to meet current demand and reduce sales lost to stockouts.
@@ -63,11 +63,11 @@ An end-to-end analytics solution built to unify transactional data across facili
 
 ### 1. Executive Overview
 ![Executive Overview Page](docs/executive_summary.png)
-Top-line KPIs — total snack shack sales, total check-ins, and total membership sales — each with a YoY comparison callout. Below that, a dual-axis chart overlays check-ins and snack shack sales against temperature to visualize the relationship, alongside a day/hour matrix for both check-ins and sales and an item-level sales breakdown.
+Top-line KPIs (total snack shack sales, total check-ins, and total membership sales), each with a YoY comparison callout. Below that, a dual-axis chart overlays check-ins and snack shack sales against temperature to visualize the relationship, alongside a day/hour matrix for both check-ins and sales and an item-level sales breakdown.
 
 ### 2. Concession & Inventory Performance
 ![Concession Performance Page](docs/concessions.png)
-Total sales KPI with YoY growth, plus sales broken out by day of week, temperature, temperature bucket, item, and weather description. A day-by-hour sales matrix highlights peak and low sales windows (conditional formatting flags high/low cells), and an item-by-temperature-bucket table shows which products sell best under which conditions — the data behind the stockout/bundling recommendation above.
+Total sales KPI with YoY growth, plus sales broken out by day of week, temperature, temperature bucket, item, and weather description. A day-by-hour sales matrix highlights peak and low sales windows (conditional formatting flags high/low cells), and an item-by-temperature-bucket table shows which products sell best under which conditions, the data behind the stockout/bundling recommendation above.
 
 ### 3. Check-In & Attendance Analytics
 ![Check-In Analytics Page](docs/check_ins.png)
@@ -122,7 +122,7 @@ Pool-Analytics-Dashboard/
    ```
 
 4. **Open the Power BI dashboard:**
-   Open `dashboard/pool_data_analysis.pbix` in Power BI Desktop. It reads directly from the CSVs in `cleaned_data/` — no database connection required.
+   Open `dashboard/pool_data_analysis.pbix` in Power BI Desktop. It reads directly from the CSVs in `cleaned_data/`, so no database connection is required.
 
 ## Future Improvements
 - **Automate ingestion:** Replace manual CSV exports from MemberSplash/Square with a scheduled API pull or scraper to eliminate manual extraction steps.
@@ -130,10 +130,10 @@ Pool-Analytics-Dashboard/
 - **Real-time refresh:** Migrate from manual/scheduled Power BI refresh to a streaming or near-real-time pipeline for same-day operational decisions.
 
 ## About This Project
-This project was built to analyze 4+ seasons of real attendance, sales, and weather data for a regional swim club, with findings and strategy recommendations presented directly to the club's executive board. Underlying data in this public repository has been synthetically regenerated to protect member and business privacy — statistical relationships (correlations, seasonal trends, lift percentages) are preserved from the original analysis.
+This project was built to analyze 4+ seasons of real attendance, sales, and weather data for a regional swim club, with findings and strategy recommendations presented directly to the club's executive board. Underlying data in this public repository has been synthetically regenerated to protect member and business privacy. Statistical relationships (correlations, seasonal trends, lift percentages) are preserved from the original analysis.
 
-Built by Nate Yohn — Information Systems & Analytics student at Shippensburg University.
+Built by Nate Yohn, Information Systems & Analytics student at Shippensburg University.
 📧 nate.m.yohn@gmail.com | [LinkedIn](https://www.linkedin.com/in/nate-yohn-54763524a/)
 
 ## License
-This project is licensed under the MIT License — see the `LICENSE.txt` file for details.
+This project is licensed under the MIT License. See the `LICENSE.txt` file for details.
